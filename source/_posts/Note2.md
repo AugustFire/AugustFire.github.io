@@ -1,7 +1,11 @@
 ---
-title: note2
+title: Note2
 date: 2019-01-21 17:27:24
+categories: 
+- 诗歌
 tags:
+- 李白
+- 诗歌
 ---
 行路难·其一_百度汉语
 
